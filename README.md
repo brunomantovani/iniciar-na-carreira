@@ -1,1 +1,20 @@
-# iniciar-na-carreira
+# Recomendações de Cursos
+Comece pelos 2 treinamentos free de backend e posteriormente assine a Alura para realizar os treinamentos pagos. Dessa forma é possível começar com baixo custo e ver se vale a pena investimento de tempo e dinheiro.
+
+## Free
+1. [Fundamentos C#](https://balta.io/cursos/fundamentos-csharp)
+2. [C# do básico ao avançado](https://www.torneseumprogramador.com.br/aulas/c-sharp)
+
+## Pagos
+1. [Orientação a objetos com C#](https://www.alura.com.br/formacao-c-sharp-orientacao-objetos)
+2. [Básico ao avançado com C#](https://www.alura.com.br/formacao-dotnet)
+3. [Banco de dados com Microsoft Sql Server 2017](https://www.alura.com.br/formacao-microsoft-sql-server-2017)
+
+## Outros
+
+https://balta.io/cursos/comecando-com-angular
+https://studio.code.org/s/mc/lessons/1/levels/1
+https://www.cursoemvideo.com/cursos
+
+# Quer contribuir?
+[Clique aqui](https://www.instagram.com/xbrunomantovani/) para me mandar uma mensagem no instagram! ;)

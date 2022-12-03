@@ -16,5 +16,8 @@ https://balta.io/cursos/comecando-com-angular
 https://studio.code.org/s/mc/lessons/1/levels/1
 https://www.cursoemvideo.com/cursos
 
+# Caso você esteja entre o intermediário e o avançado em Inglês
+Entre em [roadmap.sh](https://roadmap.sh/), pois lá contém um roadmap de como se tornar um profissional de TI em diversas áreas. Basta ir clicando nos tópicos e ir lendo os artigos e assistindo os vídeos.
+
 # Quer contribuir?
-[Clique aqui](https://www.instagram.com/xbrunomantovani/) para me mandar uma mensagem no instagram! ;)
+[Clique aqui](https://www.instagram.com/xbrunomantovani/) para me mandar uma mensagem no Instagram! ;)

@@ -4,6 +4,8 @@ Comece pelos 2 treinamentos free de backend e posteriormente assine a Alura para
 ## Free
 1. [Fundamentos C#](https://balta.io/cursos/fundamentos-csharp)
 2. [C# do básico ao avançado](https://www.torneseumprogramador.com.br/aulas/c-sharp)
+3. [Trilha do C#](https://exercism.org/tracks/csharp) Recomenda-se nível pelo menos intermediário em inglês para melhor aproveitamento.
+4. [Aprenda Jogando](https://studio.code.org/s/mc/lessons/1/levels/1) Recomenda-se nível pelo menos intermediário em inglês para melhor aproveitamento.
 
 ## Pagos
 1. [Orientação a objetos com C#](https://www.alura.com.br/formacao-c-sharp-orientacao-objetos)
